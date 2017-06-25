@@ -10,6 +10,8 @@ step to learn java
 * HTML/javascript(前端) + Apache/tomcat(服务器） + mysql(数据库）
 * springMVC框架（后台服务器框架）
 
+## 学习网站
+* [java 基础](http://www.runoob.com/java/java-tutorial.html)
 
 ## 面试必备
 * 数据结构 + 简单算法(排序和搜索)  《剑指offer》 非常的熟练
