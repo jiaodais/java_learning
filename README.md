@@ -13,3 +13,8 @@ step to learn java
 
 ## 面试必备
 * 数据结构 + 简单算法(排序和搜索)  《剑指offer》 非常的熟练
+
+
+## 应用技能
+* markdown
+* linux操作（shell脚本）
