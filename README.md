@@ -3,7 +3,7 @@ step to learn java
 
 # learing list
 ## 大神博客
-* [brianway java](brianway.github.io)
+* [brianway java](http://brianway.github.io/)
 
 ## 必备的知识
 * java语言基础
